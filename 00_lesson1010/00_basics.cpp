@@ -26,7 +26,7 @@ int tern();
 void logical_op_or();
 bool logical_op_not(int year);
 
-int main() {
+int hello() {
     int x = 5; // копирующая инициализация
     int y(5);  // прямая инициализация
 
