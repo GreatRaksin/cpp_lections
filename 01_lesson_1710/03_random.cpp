@@ -9,7 +9,7 @@ int randint(int min, int max) {
     return r_int;
 }
 
-int main() {
+int ochen_ne_main() {
     cout << randint(1, 6) << endl;
     return 0;
 }
