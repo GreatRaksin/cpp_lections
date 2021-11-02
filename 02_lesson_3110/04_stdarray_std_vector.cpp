@@ -42,8 +42,3 @@ void std_vector() {
         cout << element << ' ';
     }
 }
-
-int main() {
-    std_vector();
-    return 0;
-}
