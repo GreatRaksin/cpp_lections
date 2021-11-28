@@ -65,12 +65,3 @@ string cows(int cow) {
     return word;
 }
 
-int main() {
-    cout << cows(29) << endl;
-    cout << cows(3) << endl;
-    cout << cows(5356) << endl;
-    cout << cows(57) << endl;
-    cout << cows(33) << endl;
-    return 0;
-}
-
