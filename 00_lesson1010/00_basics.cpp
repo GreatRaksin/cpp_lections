@@ -21,7 +21,6 @@ void emptyFunction() {
     // пустая функция
 };
 
-int table();
 int tern();
 void logical_op_or();
 bool logical_op_not(int year);
@@ -30,7 +29,6 @@ int hello() {
     int x = 5; // копирующая инициализация
     int y(5);  // прямая инициализация
 
-    table();
     tern();
     logical_op_or();
     cout << logical_op_not(2100) << endl;

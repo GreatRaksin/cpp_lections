@@ -9,7 +9,7 @@ void getSinCos(double deg, double &sinOut, double &cosOut) {
     cosOut = cos(rad);
 }
 
-int main() {
+int smth() {
     double sin;
     double cos;
 
